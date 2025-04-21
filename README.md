@@ -88,3 +88,6 @@ Data : https://github.com/Rohan092/STD-Predictor-with-Chatbot.git
 2. Install dependencies
 3. Run app.py
 4. Open localhost:5000 in your browser
+
+# Feedback & Collabration
+Your feedback is always appreciated! If you’re interested in collaborating on similar projects or discussing new opportunities, feel free to reach out. I’m always open to connecting and sharing insights!
