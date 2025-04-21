@@ -40,34 +40,34 @@ Furiosa Care 2.0 is a machine learning-based web application designed to predict
 • Trains 5 models: Decision Tree, Logistic Regression, Random Forest, SVM, KNN<br>
 
 • Evaluates each using:
-Accuracy Score
-F1 Score
-Combined score: (Accuracy + F1) / 2
+Accuracy Score<br>
+F1 Score<br>
+Combined score: (Accuracy + F1) / 2<br>
 • Saves models as .pkl using Pickle
 
 ## Web Interface (app.py)
 
-• User inputs features on a simple HTML form
+• User inputs features on a simple HTML form<br>
 
-• The app loads the trained model and makes predictions
+• The app loads the trained model and makes predictions<br>
 
-• Displays either: STD Positive or STD Negative
+• Displays either: STD Positive or STD Negative<br>
 
 ## AI Chatbot
 
-• User can type a message
+• User can type a message<br>
 
-• Input is sent to Cohere NLP API
+• Input is sent to Cohere NLP API<br>
 
-• App displays an intelligent reply
+• App displays an intelligent reply<br>
 
 # 🛠 Tech Stack
 
-Category  :	Tools / Libraries
-Programming  : 	Python
-ML Libraries : 	Pandas, Scikit-learn, Pickle
-Web Framework : 	Flask
-Frontend  :	 HTML, CSS
-Dataset	 :  Custom Healthcare Dataset (STD.csv)
-NLP Integration  :	Cohere API
-Development	  :  Jupyter Notebook, VSCode
+Category  :	Tools / Libraries<br>
+Programming  : 	Python<br>
+ML Libraries : 	Pandas, Scikit-learn, Pickle<br>
+Web Framework : 	Flask<br>
+Frontend  :	 HTML, CSS<br>
+Dataset	 :  Custom Healthcare Dataset (STD.csv)<br>
+NLP Integration  :	Cohere API<br>
+Development	  :  Jupyter Notebook, VSCode<br>
